@@ -49,4 +49,4 @@ automate the tank(s) to play optimally against such an agent... one day.
 
 ### Structure:
 
-![UML Diagram](./UML_Design_Diagram)
+![UML Diagram](./UML_Design_Diagram.png)
