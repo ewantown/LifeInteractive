@@ -43,7 +43,12 @@
 		<link>
 			<name>src/ui/swinggui/AppFrame.java</name>
 			<type>1</type>
-			<location>//Users/Admin/Library/Mobile Documents/com~apple~CloudDocs/projects/java/LifeInteractive/src/main/ui/swinggui/AppFrame.java</location>
+			<location>/Users/Admin/Library/Mobile Documents/com~apple~CloudDocs/projects/java/LifeInteractive/src/main/ui/swinggui/AppFrame.java</location>
+		</link>
+		<link>
+			<name>src/ui/swinggui/NavPanel.java</name>
+			<type>1</type>
+			<location>//Users/Admin/cloud/projects/java/LifeInteractive/src/main/ui/swinggui/NavPanel.java</location>
 		</link>
 	</linkedResources>
 </projectDescription>

@@ -2749,3 +2749,3939 @@ Command-line arguments:  -data ~/cloud/projects/java/ --add-modules=ALL-SYSTEM -
 
 !ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 17:17:01.637
 !MESSAGE Clearing problems for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:47.897
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.015
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.016
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.016
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.017
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.017
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.019
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.020
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.021
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.021
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.312
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.318
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.494
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.494
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.780
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.780
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.781
+!MESSAGE Validated 1. Took 67 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:48.799
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:50.298
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:50.299
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:57.649
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:25:59.997
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:03.990
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:08.793
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:09.873
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:13.852
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:15.301
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:16.337
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:18.789
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:19.460
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:20.031
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:20.975
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:21.873
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:22.855
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:24.209
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:24.933
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:26.139
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:27.174
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:30.348
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:31.076
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:31.798
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:35.305
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:36.274
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:37.633
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:41.296
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:43.641
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:45.541
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:48.658
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.801
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.843
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.843
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.844
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.870
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.870
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.871
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.871
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.871
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.871
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.872
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:51.874
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:52.291
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:52.291
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:52.372
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:52.373
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:52.393
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:52.396
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:52.396
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:52.397
+!MESSAGE Validated 2. Took 151 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:26:52.425
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:04.062
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:04.063
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:04.065
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:07.189
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:11.920
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:14.175
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:14.741
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:14.742
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:14.742
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:16.475
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:16.476
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:17.561
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:17.563
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:17.563
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:18.449
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:18.464
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:18.611
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:18.620
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.076
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.077
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.119
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.119
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.119
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.119
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.120
+!MESSAGE Validated 2. Took 94 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.120
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.121
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.122
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.195
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.204
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.206
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.206
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.799
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.930
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:19.937
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.392
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.392
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.464
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.464
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.464
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.471
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.471
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.471
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.471
+!MESSAGE Validated 2. Took 128 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.496
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.830
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.841
+!MESSAGE >> document/onTypeFormatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.850
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.875
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.885
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.939
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:20.951
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.400
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.400
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.432
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.433
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.433
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.433
+!MESSAGE Validated 2. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.446
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.446
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.456
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.465
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:21.465
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:22.978
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:22.989
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.001
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.453
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.454
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.482
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.483
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.483
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.483
+!MESSAGE Validated 2. Took 79 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.498
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.498
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.498
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.499
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:23.508
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:24.382
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:24.814
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:24.828
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.280
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.280
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.311
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.311
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.311
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.311
+!MESSAGE Validated 2. Took 78 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.373
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.373
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.382
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.390
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.391
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.736
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:25.750
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.179
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.180
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.207
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.208
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.208
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.208
+!MESSAGE Validated 2. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.245
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.245
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.256
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.963
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:26.978
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.086
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.100
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.151
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.162
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.608
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.608
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.639
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.639
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.639
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.640
+!MESSAGE Validated 2. Took 75 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.661
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.661
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.672
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.732
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.733
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.736
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.745
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.827
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.837
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.892
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.900
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.950
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:27.960
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.448
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.448
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.455
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.472
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.472
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.473
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.473
+!MESSAGE Validated 2. Took 112 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.483
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.795
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:28.808
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.260
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.260
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.292
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.292
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.292
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.293
+!MESSAGE Validated 2. Took 79 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.305
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.305
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.315
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.456
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.468
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.696
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.709
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:29.990
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.003
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.165
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.177
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.345
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.357
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.423
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.436
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.468
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.479
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.581
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.592
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.829
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.841
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.919
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:30.931
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.033
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.046
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.054
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.066
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.200
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.212
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.302
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.314
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.404
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.415
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.460
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.514
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.537
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.548
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.650
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.663
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.817
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:31.828
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.277
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.277
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.307
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.308
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.308
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.308
+!MESSAGE Validated 2. Took 74 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.326
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.326
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.336
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.345
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:32.345
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:34.844
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:37.668
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:42.266
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:42.271
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:44.763
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:47.696
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:49.190
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:50.717
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:52.750
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:53.548
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.370
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.379
+!MESSAGE >> document/onTypeFormatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.380
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.391
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.478
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.482
+!MESSAGE >> document/onTypeFormatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.483
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.486
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.497
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.945
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.945
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.977
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.977
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.977
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:55.978
+!MESSAGE Validated 2. Took 77 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.360
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.362
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.363
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.445
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.455
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.904
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.904
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.935
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.935
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.935
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.935
+!MESSAGE Validated 2. Took 75 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.952
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.952
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.970
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.979
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:56.979
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:57.844
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:57.863
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:57.976
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:57.990
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.133
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.149
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.294
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.304
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.368
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.381
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.425
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.435
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.571
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.585
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.640
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:58.652
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.105
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.105
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.140
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.140
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.141
+!MESSAGE Validated 2. Took 84 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.148
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.149
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.165
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.174
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:27:59.175
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:00.432
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:00.450
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:00.588
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:00.602
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:00.824
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:00.834
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:00.923
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:00.934
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.035
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.047
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.205
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.219
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.350
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.362
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.556
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.571
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.802
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.815
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.945
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:01.959
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.026
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.040
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.106
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.117
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.184
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.195
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.299
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.313
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.376
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.387
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.456
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.467
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.963
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.963
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.964
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.989
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.989
+!MESSAGE Duplicate modifier for the field imgFile is of type DuplicateModifierForField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.990
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.990
+!MESSAGE 3 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:02.990
+!MESSAGE Validated 2. Took 118 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.000
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.141
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.152
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.265
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.279
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.467
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.479
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.494
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.506
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.795
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.807
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.950
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:03.964
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.121
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.134
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.276
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.288
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.421
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.433
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.864
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.864
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.882
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.891
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.891
+!MESSAGE Duplicate modifier for the field imgFile is of type DuplicateModifierForField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.891
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.892
+!MESSAGE 3 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.892
+!MESSAGE Validated 2. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.900
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.951
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:04.961
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.017
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.028
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.088
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.100
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.188
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.198
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.242
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.253
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.705
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.706
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.766
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.766
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.768
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.777
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.777
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.781
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.781
+!MESSAGE Duplicate modifier for the field imgFile is of type DuplicateModifierForField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.781
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.781
+!MESSAGE 3 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.781
+!MESSAGE Validated 2. Took 123 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.783
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:05.791
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.021
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.035
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.134
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.150
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.312
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.324
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.344
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.354
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.515
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.528
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.639
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.654
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.751
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:06.760
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.210
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.211
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.244
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.244
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.244
+!MESSAGE Validated 2. Took 79 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.256
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.257
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.273
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.282
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:07.282
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:11.177
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:11.192
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:11.285
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:11.300
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:11.580
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:11.597
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:11.714
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:11.730
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.184
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.184
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.258
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.258
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.260
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.260
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.260
+!MESSAGE Validated 2. Took 125 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.303
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.303
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.303
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.311
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:12.311
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.135
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.148
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.359
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.374
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.827
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.827
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.863
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.863
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.863
+!MESSAGE Validated 2. Took 84 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.870
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.871
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:14.887
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:15.585
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:15.599
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.052
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.052
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.086
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.087
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.087
+!MESSAGE Validated 2. Took 82 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.087
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.104
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.105
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.105
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.107
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.441
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.457
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.747
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.763
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.798
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:16.809
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:17.104
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:17.121
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:17.257
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:17.270
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:17.486
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:17.499
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:17.977
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:17.996
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:17.996
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.022
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.022
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.022
+!MESSAGE Validated 2. Took 117 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.030
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.095
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.106
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.237
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.248
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.282
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.294
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.429
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.441
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.631
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:18.645
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.092
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.092
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.124
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.124
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.125
+!MESSAGE Validated 2. Took 75 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.137
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.143
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.143
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.144
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.144
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.215
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.227
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.417
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.428
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.497
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.508
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.666
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.679
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.744
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.753
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.972
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:19.987
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.438
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.438
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.473
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.473
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.474
+!MESSAGE Validated 2. Took 81 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.482
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.482
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.498
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.863
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.869
+!MESSAGE >> document/onTypeFormatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.876
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.888
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:20.899
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.353
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.353
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.378
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.378
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.386
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.386
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.386
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.386
+!MESSAGE Validated 2. Took 83 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.448
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.457
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.458
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:21.467
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:27.812
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:27.819
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:27.824
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:27.837
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:28.197
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:28.210
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:28.365
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:28.379
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:28.615
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:28.628
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.125
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.127
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.127
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.127
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.127
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.127
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.154
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.154
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.154
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.154
+!MESSAGE Validated 2. Took 121 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.198
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.206
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.206
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.206
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.217
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.983
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:29.996
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.445
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.445
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.477
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.478
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.478
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.478
+!MESSAGE Validated 2. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.495
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.495
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.511
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.567
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.578
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.679
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.690
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.758
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.763
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.766
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.768
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:30.779
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.111
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.125
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.288
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.299
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.753
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.753
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.806
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.806
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.813
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.821
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.823
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.824
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.824
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.824
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.824
+!MESSAGE Validated 2. Took 120 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:31.841
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.031
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.043
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.179
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.190
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.313
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.328
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.516
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.530
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.980
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:32.980
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.012
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.012
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.012
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.012
+!MESSAGE Validated 2. Took 77 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.021
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.023
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.026
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.026
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.093
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.119
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.128
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.167
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.169
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.170
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.171
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.179
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.484
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.552
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.912
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:33.926
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.000
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.013
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.181
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.194
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.644
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.644
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.705
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.707
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.707
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.707
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.707
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.715
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.716
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.716
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.716
+!MESSAGE Validated 2. Took 117 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.759
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.779
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.787
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.865
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.875
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.942
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:34.952
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:35.239
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:35.253
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:35.394
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:35.403
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:35.633
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:35.646
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:35.686
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:35.697
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.137
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.150
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.151
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.181
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.182
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.182
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.182
+!MESSAGE Validated 2. Took 79 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.190
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.203
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.213
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.318
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.327
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.440
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.452
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.897
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.897
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.930
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.930
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.930
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.930
+!MESSAGE Validated 2. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.934
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:36.942
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.115
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.120
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.122
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.124
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.135
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.226
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.236
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.489
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.502
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.519
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.530
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.678
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.689
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.905
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:37.918
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.040
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.053
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.081
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.091
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.300
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.314
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.448
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.459
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.500
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.511
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.883
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.891
+!MESSAGE >> document/signatureHelp
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:38.896
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.153
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.166
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.287
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.289
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.291
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.293
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.300
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.375
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.386
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.500
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.510
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.702
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.706
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.709
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.712
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:39.776
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.216
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.216
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.230
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.230
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.242
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.258
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.263
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.264
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.265
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.265
+!MESSAGE Validated 2. Took 83 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:40.275
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.000
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.016
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.468
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.468
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.542
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.543
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.543
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.543
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.543
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.543
+!MESSAGE Validated 2. Took 121 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.588
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.596
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:41.597
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:42.629
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:42.643
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:43.094
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:43.094
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:43.125
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:43.125
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:43.125
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:43.125
+!MESSAGE Validated 2. Took 77 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:43.142
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:43.142
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:43.160
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.409
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.424
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.486
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.498
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.601
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.615
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.736
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.749
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.801
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.813
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.930
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.935
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.938
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.941
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:44.951
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:45.400
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:45.401
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:45.431
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:45.431
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:45.431
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:45.431
+!MESSAGE Validated 2. Took 75 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:45.513
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:45.513
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:45.535
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.028
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.041
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.527
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.538
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.538
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.561
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.562
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.562
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.562
+!MESSAGE Validated 2. Took 115 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.570
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.668
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.678
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.711
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:47.721
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.043
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.058
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.119
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.131
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.247
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.258
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.288
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.298
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.649
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:48.664
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.111
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.111
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.142
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.143
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.143
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.143
+!MESSAGE Validated 2. Took 73 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.154
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.156
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.160
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.160
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:49.227
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:52.681
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:52.682
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:52.686
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.071
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.092
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.544
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.544
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.574
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.574
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.574
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.574
+!MESSAGE Validated 2. Took 77 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.582
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.583
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:53.600
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:54.622
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:54.634
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.080
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.081
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.141
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.141
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.153
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.153
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.153
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.154
+!MESSAGE Validated 2. Took 115 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.204
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:55.215
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.152
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.164
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.610
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.610
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.641
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.642
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.642
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.642
+!MESSAGE Validated 2. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.652
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.660
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.735
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.745
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.818
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.828
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.903
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.914
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.988
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:56.998
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.073
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.086
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.157
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.170
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.241
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.253
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.325
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.338
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.408
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.419
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.491
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.502
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.706
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.720
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.861
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:57.873
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.030
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.042
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.178
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.189
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.637
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.637
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.668
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.669
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.669
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.669
+!MESSAGE Validated 2. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.687
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.687
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.703
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.712
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:28:58.712
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.022
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.035
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.524
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.524
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.530
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.530
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.546
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.549
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.549
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.549
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.549
+!MESSAGE Validated 2. Took 113 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.549
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.558
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.766
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.779
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.891
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.906
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.956
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:00.967
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.170
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.179
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.349
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.362
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.427
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.438
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.507
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.517
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.620
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.632
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.755
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.767
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.904
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:01.914
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.025
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.038
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.092
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.102
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.126
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.136
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.430
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.435
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.440
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.443
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.454
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.631
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.641
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.644
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.654
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.698
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.707
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.732
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.741
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.879
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:02.890
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:03.241
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:03.254
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:03.397
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:03.409
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:03.678
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:03.690
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:03.905
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:03.917
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:04.141
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:04.154
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:04.219
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:04.231
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:04.396
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:04.406
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:04.700
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:04.709
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.160
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.160
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.190
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.191
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.191
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.192
+!MESSAGE Validated 2. Took 77 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.206
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.206
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.221
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.230
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:05.230
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:09.067
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:11.714
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:13.767
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:15.166
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:16.084
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:24.003
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:25.801
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:25.815
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:25.999
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.012
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.462
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.462
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.528
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.528
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.528
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.529
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.535
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.535
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.535
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.535
+!MESSAGE Validated 2. Took 121 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.579
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.582
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.585
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.593
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.638
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.647
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.955
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.959
+!MESSAGE >> document/signatureHelp
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:26.967
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.418
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.419
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.487
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.487
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.488
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.488
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.488
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.497
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.498
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.498
+!MESSAGE 3 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.498
+!MESSAGE Validated 2. Took 127 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:27.543
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.118
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.124
+!MESSAGE >> document/signatureHelp
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.132
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.247
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.256
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.442
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.455
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.792
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.805
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.981
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:28.994
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:29.083
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:29.096
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:29.238
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:29.247
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:29.466
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:29.479
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:29.726
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:29.739
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.108
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.124
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.573
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.573
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.605
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.605
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.605
+!MESSAGE Validated 2. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.620
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.620
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.620
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.620
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:30.631
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:31.210
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.346
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.347
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.347
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.447
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.452
+!MESSAGE >> document/onTypeFormatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.458
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.948
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.949
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.959
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.959
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.959
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.960
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.969
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.975
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.975
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.975
+!MESSAGE 3 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.976
+!MESSAGE Validated 2. Took 113 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.990
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:34.990
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:35.685
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:35.699
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.145
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.145
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.177
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.177
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.178
+!MESSAGE Validated 2. Took 72 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.197
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.197
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.197
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.198
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.207
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.758
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.969
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.977
+!MESSAGE >> document/onTypeFormatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:36.982
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.006
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.009
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.012
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.021
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.516
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.516
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.516
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.520
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.520
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.542
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.542
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.542
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.542
+!MESSAGE Validated 2. Took 116 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.552
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:37.566
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:39.440
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:39.441
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:39.442
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.032
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.039
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.050
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.500
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.500
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.556
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.556
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.557
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.557
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.557
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.576
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.577
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.578
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.578
+!MESSAGE Validated 2. Took 126 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:40.608
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.011
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.016
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.019
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.028
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.475
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.476
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.505
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.505
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.505
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.506
+!MESSAGE Validated 2. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.683
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.688
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:41.699
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.142
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.142
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.199
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.199
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.200
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.200
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.209
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.209
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.209
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.209
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.210
+!MESSAGE Validated 2. Took 104 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.222
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:42.222
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:44.151
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:44.152
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:44.152
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:47.688
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:52.218
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:58.081
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:29:59.634
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:00.623
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:02.031
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:02.839
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:05.386
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:06.228
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:07.327
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:08.527
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:08.528
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:08.528
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:09.673
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:09.677
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:11.737
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:13.625
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:14.745
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:16.966
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:17.759
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:22.327
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:22.900
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:26.048
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:26.052
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:26.563
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:28.007
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:36.587
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:36.588
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:36.588
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.012
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.029
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.052
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.064
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.166
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.176
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.391
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.403
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.516
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.530
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.617
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.630
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.695
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.707
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.808
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.821
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.945
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:37.957
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.134
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.146
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.600
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.601
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.631
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.632
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.632
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.632
+!MESSAGE Validated 2. Took 77 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.646
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.646
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.646
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.646
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.662
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.673
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.673
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:38.673
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:40.537
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.118
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.132
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.144
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.331
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.336
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.339
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.342
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.354
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.483
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.494
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.554
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.565
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.658
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:42.671
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.118
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.118
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.174
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.190
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.190
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.190
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.191
+!MESSAGE Validated 2. Took 117 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.198
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.286
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.295
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.545
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:43.559
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.011
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.011
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.041
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.041
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.042
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.042
+!MESSAGE Validated 2. Took 78 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.059
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.059
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.075
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.807
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:44.820
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.135
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.150
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.224
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.236
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.688
+!MESSAGE begin problem for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.689
+!MESSAGE 1 problems reported for /AppFrame.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.749
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.751
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.751
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.752
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.753
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.763
+!MESSAGE begin problem for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.763
+!MESSAGE TODO: write a generative recursive footprint function to pass to the Game constructor is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.763
+!MESSAGE 2 problems reported for /NavPanel.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.763
+!MESSAGE Validated 2. Took 121 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:45.804
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:48.072
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:49.334
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:52.358
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:53.266
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:30:57.427
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:00.221
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:01.677
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:04.237
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:07.107
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:07.643
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:08.323
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:08.328
+!MESSAGE >> document/codeLens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:08.837
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:09.896
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:12.740
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:13.635
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:15.356
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:16.387
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:19.042
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:26.291
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-03 20:31:26.548
+!MESSAGE >> shutdown

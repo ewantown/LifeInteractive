@@ -17,6 +17,8 @@ import java.io.InputStream;
 import static ui.Game.DEMO_FOOTPRINT_FN;
 
 public class NavPanel extends JPanel {
+    private final boolean devMode = false; // toggle for genRec experimentation via "surprise" button
+    
     private final InputStream imgFile = NavPanel.class.getResourceAsStream("splash.png");
     private final Color splashBack = new Color(112, 245, 143, 255);
     private final AppFrame app;
@@ -42,11 +44,13 @@ public class NavPanel extends JPanel {
     // Modifies this
     // Builds startMenu
     private void startMenu() {
-        JPanel buttons = new ButtonPanel(4);
+        JPanel buttons = new ButtonPanel((devMode) ? 4 : 3);
         buttons.add(quickStartButton());
         buttons.add(filerButton("Load"));
         buttons.add(drawButton());
-        buttons.add(surpriseButton());
+	if (devMode) {
+	    buttons.add(surpriseButton());
+	} // for experimentation
         this.add(buttons);
     }
 
@@ -72,11 +76,13 @@ public class NavPanel extends JPanel {
     // Modifies this
     // Builds endMenu
     private void endMenu() {
-        JPanel buttons = new ButtonPanel(4);
+        JPanel buttons = new ButtonPanel((devMode) ? 4 : 3);
         buttons.add(quickStartButton());
         buttons.add(filerButton("Load"));
         buttons.add(drawButton());
-        buttons.add(surpriseButton());
+        if (devMode) {
+            buttons.add(surpriseButton());
+        }
         this.add(buttons);
     }
 
