@@ -3,7 +3,7 @@
 ### A Twist on Conway's Game of Life:
 
 A simple "tank" game serves as a means of interacting with the evolution of a classic cellular automaton.<br />
-
+![screenshot](./screenshot.png)
 Check out a short video demo [here](https://youtu.be/oIBqgyq9cdk), or play the game by loading the .jar file [here](/out/artifacts/LifeInteractive_jar/LifeInteractive.jar).
 
 What goes on? A grid of cells evolves "naturally" from an initial state
@@ -37,7 +37,7 @@ and it is over if either of these conditions obtain:
 or if 1000 generations of cells have lived and died. 
 
 Scoring is based on a "harvest" model. For each cell killed by a bullet, the player receives a point, whereas for each seed implanted,  the player loses a point (if they have any). Thus, one accrues more points
-by cultivating the life form than by shooting indiscriminately.  
+by cultivating the life-form than by shooting indiscriminately.  
 
 ### Intention:
 The game ought to be fun, of course, but the program was/is a sort of "sandbox" for myself. The idea may eventually be of use to me as a testing ground for simple game-playing agents and/or multi-agent systems; e.g. have another agent interact with the board by selecting a single cell per generation to "flip", as decided by search of a game tree, then automate the tank(s) to play optimally against such an agent... one day. Hopefully it is of interest to someone else, for some reason. 
