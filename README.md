@@ -36,7 +36,7 @@ and it is over if either of these conditions obtain:
 
 or if 1000 generations of cells have lived and died. 
 
-Scoring is based on a "harvest" model. For each cell killed by a bullet, the player receives a point, whereas for each seed implanted,  the player loses a point (if they have any). Thus, one accrues more points
+Scoring is based on a "harvest" model. For each cell killed by a bullet, the player receives a point, whereas for each seed implanted,  the player loses a point (if they have any). So, one accrues more points
 by cultivating the life-form than by shooting indiscriminately.  
 
 ### Intention:
