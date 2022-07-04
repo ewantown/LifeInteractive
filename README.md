@@ -6,7 +6,9 @@ A simple "tank" game serves as a means of interacting with the evolution of Conw
 ![screenshot](./screenshot.png)
 Check out a video demo [here](https://youtu.be/oIBqgyq9cdk), or play the game by loading the .jar file [here](/out/artifacts/LifeInteractive_jar/LifeInteractive.jar).
 
-What goes on? A grid of cells evolves "naturally" from an initial state
+### Gameplay:
+
+A grid of cells evolves "naturally" from an initial state
 in accordance with the rules of Conway's Game. 
 The user navigates a tank-shaped avatar with directional keys, 
 and fires projectiles in the facing direction. 
