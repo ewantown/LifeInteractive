@@ -12,7 +12,7 @@ A grid of cells evolves "naturally" from an initial state
 in accordance with the rules of Conway's Game. 
 The user navigates a tank-shaped avatar with directional keys, 
 and fires projectiles in the facing direction. 
-With each tick, the tank moves and projectiles travel at a uniform velocity in their
+With each tick, the tank moves and projectiles travel in their
 initial direction of travel, up to a maximum distance.
 
 There are projectiles of four sorts:  
