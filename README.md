@@ -40,10 +40,7 @@ Scoring is based on a "harvest" model. For each cell killed by a bullet, the pla
 by cultivating the life form than by shooting indiscriminately.  
 
 ### Intention:
-The game ought to be fun for everyone, and may eventually be of use to me as a testing ground for 
-simple game-playing agents. I'd like to have another agent interact with the board by selecting a
-single cell per generation to "flip", as decided by search of a game tree, and then
-automate the tank(s) to play optimally against such an agent... one day.
+The game ought to fun, of course, but the program was/is a sort of "sandbox". The idea may eventually be of use to me as a testing ground for simple game-playing agents and/or multi-agent system, e.g. have another agent interact with the board by selecting a single cell per generation to "flip", as decided by search of a game tree, then automate the tank(s) to play optimally against such an agent... one day. Hopefully it is of interest to someone else, for some reason. 
 
 ### Structure:
 
