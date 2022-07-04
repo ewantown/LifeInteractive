@@ -13,7 +13,7 @@ and fires projectiles in the facing direction.
 With each tick, the tank moves and projectiles travel at a uniform velocity in their
 initial direction of travel, up to a maximum distance.
 
-There are projectiles of four sorts. 
+There are projectiles of four sorts:  
 - **Bullets** are fired with the 'x' key. 
 If a bullet collides with a live cell, the cell dies of unnatural causes. 
 
