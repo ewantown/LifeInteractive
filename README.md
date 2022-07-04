@@ -1,6 +1,6 @@
 ## LifeInteractive
 
-### A Twist on Conway's Game of Life:
+### A Twist on Conway's *Game of Life*:
 
 A simple "tank" game serves as a means of interacting with the evolution of a classic cellular automaton.<br />
 ![screenshot](./screenshot.png)
