@@ -17,9 +17,9 @@ initial direction of travel, up to a maximum distance.
 
 There are projectiles of four sorts:  
 - **Bullets** are fired with the 'x' key. 
-If a bullet collides with a live cell, the cell dies of unnatural causes. 
+If a bullet collides with a cell, the cell dies of unnatural causes. 
 
-- **Seeds** are fired with the 'z' key. If a seed collides with a live cell, artificial
+- **Seeds** are fired with the 'z' key. If a seed collides with a cell, artificial
 life is generated immediately adjacent to the point of collision.
 
 - **Death rays** are fired with the 's' key. A death ray is *like* a bullet, 
@@ -42,7 +42,7 @@ Scoring is based on a "harvest" model. For each cell killed by a bullet, the pla
 by cultivating the life-form than by shooting indiscriminately.  
 
 ### Intention:
-The game ought to be fun, of course, but the program itself was/is a "sandbox". As a result there are a number of boolean "toggles" in the code; e.g. toggling 'devMode' in the NavPanel class will add a 'surprise' button to the menus, which runs (one's choice of) additional code. The general idea may eventually be of use to me as a testing ground for simple game-playing agents and/or multi-agent systems; e.g. have another agent interact with the board by selecting a single cell per generation to "flip", as decided by search of a game tree, and automate the tank(s) to play optimally against such an agent... maybe, one day. Hopefully it is of interest to someone else, for some reason.
+The game itself ought to be fun, of course, but the program was/is a "sandbox". As a result there are a number of boolean "toggles" in the code; e.g. toggling 'devMode' in the NavPanel class will add a 'surprise' button to the menus, which runs (one's choice of) additional code. The general idea may eventually be of use to me as a testing ground for simple game-playing agents and/or multi-agent systems; e.g. have another agent interact with the board by selecting a single cell per generation to "flip", as decided by search of a game tree, and automate the tank(s) to play optimally against such an agent... maybe, one day. Hopefully it is of interest to someone else, for some reason.
 
 ### TODO:
 - Add GUI support for loading famous initial boards from data/resources/seedLib.json
