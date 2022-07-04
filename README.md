@@ -38,14 +38,12 @@ or if 1000 generations of cells have lived and died.
 
 Scoring is based on a "harvest" model. For each cell killed by a bullet, the player receives a point, whereas for each seed implanted,  the player loses a point (if they have any). Thus, one accrues more points
 by cultivating the life form than by shooting indiscriminately.  
-<br />
 
 ### Intention:
 The game ought to be fun for everyone, and may eventually be of use to me as a testing ground for 
 simple game-playing agents. I'd like to have another agent interact with the board by selecting a
 single cell per generation to "flip", as decided by search of a game tree, and then
 automate the tank(s) to play optimally against such an agent... one day.
-<br />
 
 ### Structure:
 
