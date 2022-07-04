@@ -4,7 +4,7 @@
 
 A simple "tank" game serves as a means of interacting with the evolution of Conway's cellular automaton.<br />
 ![screenshot](./screenshot.png)
-Watch a video demo [here](https://youtu.be/oIBqgyq9cdk), or play the game by loading the .jar file [here](/out/artifacts/LifeInteractive_jar/LifeInteractive.jar).
+Watch a demo video [here](https://youtu.be/oIBqgyq9cdk), or play the game by loading the .jar [here](/out/artifacts/LifeInteractive_jar/LifeInteractive.jar).
 
 ### Gameplay:
 
