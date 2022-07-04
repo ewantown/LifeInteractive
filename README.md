@@ -49,4 +49,4 @@ automate the tank(s) to play optimally against such an agent... one day.
 
 ### Structure:
 
-![uml_diagram](https://raw.githubusercontent.com/ewantown/LifeInteractive/UML_Design_Diagram)
+![uml_diagram](https://raw.githubusercontent.com/ewantown/LifeInteractive/master/UML_Design_Diagram)
