@@ -2,7 +2,7 @@
 
 ### A Twist on Conway's *Game of Life*:
 
-A simple "tank" game serves as a means of interacting with the evolution of a classic cellular automaton.<br />
+A simple "tank" game serves as a means of interacting with the evolution of Conway's classic cellular automaton.<br />
 ![screenshot](./screenshot.png)
 Check out a video demo [here](https://youtu.be/oIBqgyq9cdk), or play the game by loading the .jar file [here](/out/artifacts/LifeInteractive_jar/LifeInteractive.jar).
 
