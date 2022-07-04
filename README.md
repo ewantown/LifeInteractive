@@ -42,6 +42,9 @@ by cultivating the life-form than by shooting indiscriminately.
 ### Intention:
 The game ought to be fun, of course, but the program was/is a sort of "sandbox" for myself. The idea may eventually be of use to me as a testing ground for simple game-playing agents and/or multi-agent systems; e.g. have another agent interact with the board by selecting a single cell per generation to "flip", as decided by search of a game tree, then automate the tank(s) to play optimally against such an agent... one day. Hopefully it is of interest to someone else, for some reason. 
 
+### TODO:
+- Add GUI support for loading famous initial boards from data/seedLib.json
+
 ### Structure:
 
 ![UML Diagram](./UML_Design_Diagram.png)
