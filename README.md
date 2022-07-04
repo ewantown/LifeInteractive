@@ -4,7 +4,7 @@
 
 A simple "tank" game serves as a means of interacting with the evolution of a classic cellular automaton.<br />
 ![screenshot](./screenshot.png)
-Check out a short video demo [here](https://youtu.be/oIBqgyq9cdk), or play the game by loading the .jar file [here](/out/artifacts/LifeInteractive_jar/LifeInteractive.jar).
+Check out a video demo [here](https://youtu.be/oIBqgyq9cdk), or play the game by loading the .jar file [here](/out/artifacts/LifeInteractive_jar/LifeInteractive.jar).
 
 What goes on? A grid of cells evolves "naturally" from an initial state
 in accordance with the rules of Conway's Game. 
