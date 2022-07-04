@@ -1,0 +1,1 @@
+{"game":{"tank":{"dx":0,"dy":-1,"position":{"x":25,"y":33}},"life":{"cells":[{"x":20,"y":20},{"x":25,"y":34}],"generations":0},"projectiles":[{"dx":0,"dy":-1,"x":25,"y":31,"dist":1,"type":"bullet"}]},"surface":{"width":50,"height":35}}

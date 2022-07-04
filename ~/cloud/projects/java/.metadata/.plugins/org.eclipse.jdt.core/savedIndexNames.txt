@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/Admin/Library/Mobile Documents/com~apple~CloudDocs/projects/java/LifeInteractive/~/cloud/projects/java/.metadata/.plugins/org.eclipse.jdt.core
+3842426239.index
+921844753.index
+1865797976.index

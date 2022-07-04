@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/model/Cell.java</name>
+			<type>1</type>
+			<location>/Users/Admin/cloud/projects/java/LifeInteractive/src/main/model/Cell.java</location>
+		</link>
+		<link>
+			<name>src/model/CellTest.java</name>
+			<type>1</type>
+			<location>/Users/Admin/cloud/projects/java/LifeInteractive/src/test/model/CellTest.java</location>
+		</link>
+		<link>
+			<name>src/model/Position.java</name>
+			<type>1</type>
+			<location>/Users/Admin/cloud/projects/java/LifeInteractive/src/main/model/Position.java</location>
+		</link>
+		<link>
+			<name>src/ui/Game.java</name>
+			<type>1</type>
+			<location>/Users/Admin/cloud/projects/java/LifeInteractive/src/main/ui/Game.java</location>
+		</link>
+		<link>
+			<name>src/ui/Main.java</name>
+			<type>1</type>
+			<location>/Users/Admin/cloud/projects/java/LifeInteractive/src/main/ui/Main.java</location>
+		</link>
+		<link>
+			<name>src/ui/swinggui/AppFrame.java</name>
+			<type>1</type>
+			<location>//Users/Admin/Library/Mobile Documents/com~apple~CloudDocs/projects/java/LifeInteractive/src/main/ui/swinggui/AppFrame.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
