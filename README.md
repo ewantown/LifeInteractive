@@ -40,7 +40,7 @@ Scoring is based on a "harvest" model. For each cell killed by a bullet, the pla
 by cultivating the life-form than by shooting indiscriminately.  
 
 ### Intention:
-The game itself ought to be fun, of course, but the program was/is a sort of "sandbox" for myself, so there are a number of boolean "toggles" in the code; e.g. toggling 'devMode' in the NavPanel class will add a 'surprise' button to the menus, which runs (one's choice of) additional code. The general idea may eventually be of use to me as a testing ground for simple game-playing agents and/or multi-agent systems; e.g. have another agent interact with the board by selecting a single cell per generation to "flip", as decided by search of a game tree, then automate the tank(s) to play optimally against such an agent... maybe, one day. Hopefully it is of interest to someone else, for some reason.
+The game itself ought to be fun, of course, but the program was/is a "sandbox" for myself, so there are a number of boolean "toggles" in the code; e.g. toggling 'devMode' in the NavPanel class will add a 'surprise' button to the menus, which runs (one's choice of) additional code. The general idea may eventually be of use to me as a testing ground for simple game-playing agents and/or multi-agent systems; e.g. have another agent interact with the board by selecting a single cell per generation to "flip", as decided by search of a game tree, then automate the tank(s) to play optimally against such an agent... maybe, one day. Hopefully it is of interest to someone else, for some reason.
 
 ### TODO:
 - Add GUI support for loading famous initial boards from data/resources/seedLib.json
